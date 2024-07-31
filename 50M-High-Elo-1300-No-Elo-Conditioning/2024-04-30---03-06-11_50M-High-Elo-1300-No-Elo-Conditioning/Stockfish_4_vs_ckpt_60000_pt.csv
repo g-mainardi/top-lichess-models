@@ -1,0 +1,21 @@
+game_id,transcript,result,player_one,player_two,player_one_time,player_two_time,player_one_score,player_two_score,player_one_illegal_moves,player_two_illegal_moves,player_one_legal_moves,player_two_legal_moves,player_one_resignation,player_two_resignation,player_one_failed_to_find_legal_move,player_two_failed_to_find_legal_move,game_title,number_of_moves,time_taken,total_moves,illegal_moves,temperature,white_elo,black_elo
+1714477202-7358,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1. d4 d5 2. c4 dxc4 3. g3 Nc6 4. Bg2 Nxd4 5. Na3 Bf5 6. e4 Bg6 7. Ne2 Nxe2 8. Qa4+ c6 9. Nxc4 Nxc1 10. Rxc1 b5 11. e5 bxc4 12. Bxc6+ Qd7 13. Bxd7+ Kd8 14. Qxc4 Rc8 15. Qxc8#",1-0,Stockfish 4,/n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1300-No-Elo-Conditioning/2024-04-30---03-06-11_50M-High-Elo-1300-No-Elo-Conditioning/ckpt_60000.pt,0.1,,1,0,0,0,15,15,False,False,False,False,Stockfish 4 vs. /n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1300-No-Elo-Conditioning/2024-04-30---03-06-11_50M-High-Elo-1300-No-Elo-Conditioning/ckpt_60000.pt,15,6.759232521057129,15,0,0.001,,
+1714477210-9412,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1. Nf3 d5 2. e3 Nc6 3. c4 dxc4 4. Qc2 b5 5. a4 Ba6 6. d4 e6 7. axb5 Bxb5 8. b3 cxb3 9. Bxb5 bxc2 10. Bxc6+ Ke7 11. Ne5 Rb8 12. Nc3 Rb1 13. Nxb1 cxb1=Q 14. Rxb1 f6 15. Ba3+",1-0,Stockfish 4,/n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1300-No-Elo-Conditioning/2024-04-30---03-06-11_50M-High-Elo-1300-No-Elo-Conditioning/ckpt_60000.pt,0.1,,1,0,0,5,15,14,False,False,False,True,Stockfish 4 vs. /n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1300-No-Elo-Conditioning/2024-04-30---03-06-11_50M-High-Elo-1300-No-Elo-Conditioning/ckpt_60000.pt,15,7.9413957595825195,15,0,0.001,,
+1714477215-8500,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1. c4 e5 2. a3 Nf6 3. e3 d5 4. Nf3 dxc4 5. Nc3 Be6 6. Qa4+ c6 7. Ng5 Bd7 8. Bxc4 b5 9. Bxf7+ Ke7 10. Qb4+",1-0,Stockfish 4,/n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1300-No-Elo-Conditioning/2024-04-30---03-06-11_50M-High-Elo-1300-No-Elo-Conditioning/ckpt_60000.pt,0.1,,1,0,0,5,10,9,False,False,False,True,Stockfish 4 vs. /n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1300-No-Elo-Conditioning/2024-04-30---03-06-11_50M-High-Elo-1300-No-Elo-Conditioning/ckpt_60000.pt,10,4.885570049285889,10,0,0.001,,
+1714477228-1500,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1. d4 d5 2. Nf3 Nc6 3. g3 Nf6 4. c3 Bg4 5. Ne5 Nxe5 6. dxe5 Ne4 7. f3 Bxf3 8. Qa4+ c6 9. exf3 Nc5 10. Qd1 e6 11. Kf2 Be7 12. Kg2 O-O 13. h4 f6 14. exf6 Bxf6 15. Be3 Nd7 16. Bf2 Ne5 17. Nd2 Qb6 18. Qc2 Rad8 19. Rb1 d4 20. cxd4 Rxd4 21. Ne4 Rfd8 22. Re1 Nd3 23. Re2 Nxf2 24. Rxf2 Rd2 25. Nxf6+ gxf6 26. Rxd2 Rxd2 27. Qxd2 Qxb2 28. Qxb2 Kg7 29. Qxb7+ Kg6 30. Qxa7 Kf5 31. Bd3+ Ke5 32. Qd7",1-0,Stockfish 4,/n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1300-No-Elo-Conditioning/2024-04-30---03-06-11_50M-High-Elo-1300-No-Elo-Conditioning/ckpt_60000.pt,0.1,,1,0,0,5,32,31,False,False,False,True,Stockfish 4 vs. /n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1300-No-Elo-Conditioning/2024-04-30---03-06-11_50M-High-Elo-1300-No-Elo-Conditioning/ckpt_60000.pt,32,13.700725078582764,32,0,0.001,,
+1714477237-2676,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nf6 6. d4 e4 7. Ne5 Nxe5 8. dxe5 Nd5 9. Qxd5 c6 10. Qxe4 cxb5 11. Bf4 Be7 12. h3 O-O 13. Nc3 d6 14. exd6 Bxd6 15. Rad1 Bxf4 16. Qxf4 Qb6 17. Nd5 Qc5 18. b4 Qxc2 19. Ne7+ Kh8 20. Rc1 Qxa2 21. Re5 Be6 22. Rh5 g6 23. Qf6#",1-0,Stockfish 4,/n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1300-No-Elo-Conditioning/2024-04-30---03-06-11_50M-High-Elo-1300-No-Elo-Conditioning/ckpt_60000.pt,0.1,,1,0,0,0,23,23,False,False,False,False,Stockfish 4 vs. /n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1300-No-Elo-Conditioning/2024-04-30---03-06-11_50M-High-Elo-1300-No-Elo-Conditioning/ckpt_60000.pt,23,8.918965816497803,23,0,0.001,,

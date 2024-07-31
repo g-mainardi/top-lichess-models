@@ -1,0 +1,4 @@
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1. Nf3 d5 2. e3 Nc6 3. c4 dxc4 4. Qa4 Bd7 5. Bxc4 Ne5 6. Nxe5 Bxa4 7. Bxf7#

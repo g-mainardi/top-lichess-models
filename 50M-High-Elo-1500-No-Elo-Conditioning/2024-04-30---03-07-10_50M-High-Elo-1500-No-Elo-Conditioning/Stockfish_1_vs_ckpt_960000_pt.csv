@@ -1,0 +1,21 @@
+game_id,transcript,result,player_one,player_two,player_one_time,player_two_time,player_one_score,player_two_score,player_one_illegal_moves,player_two_illegal_moves,player_one_legal_moves,player_two_legal_moves,player_one_resignation,player_two_resignation,player_one_failed_to_find_legal_move,player_two_failed_to_find_legal_move,game_title,number_of_moves,time_taken,total_moves,illegal_moves,temperature,white_elo,black_elo
+1714658498-8552,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1. e4 e5 2. d3 Nc6 3. Be2",1-0,Stockfish 1,/n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1500-No-Elo-Conditioning/2024-04-30---03-07-10_50M-High-Elo-1500-No-Elo-Conditioning/ckpt_960000.pt,0.1,,1,0,0,5,3,2,False,False,False,True,Stockfish 1 vs. /n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1500-No-Elo-Conditioning/2024-04-30---03-07-10_50M-High-Elo-1500-No-Elo-Conditioning/ckpt_960000.pt,3,0.6339313983917236,3,0,0.001,,
+1714658498-8072,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1. c4 e5 2. e3",1-0,Stockfish 1,/n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1500-No-Elo-Conditioning/2024-04-30---03-07-10_50M-High-Elo-1500-No-Elo-Conditioning/ckpt_960000.pt,0.1,,1,0,0,5,2,1,False,False,False,True,Stockfish 1 vs. /n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1500-No-Elo-Conditioning/2024-04-30---03-07-10_50M-High-Elo-1500-No-Elo-Conditioning/ckpt_960000.pt,2,0.4803507328033447,2,0,0.001,,
+1714658500-2575,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bf5 4. c4 dxc4 5. d5 Nb4 6. Qa4+ c6 7. e4 Bxe4 8. Qxb4 Bxd5 9. Qxb7 e6 10. Ne5 Bd6 11. Qxf7#",1-0,Stockfish 1,/n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1500-No-Elo-Conditioning/2024-04-30---03-07-10_50M-High-Elo-1500-No-Elo-Conditioning/ckpt_960000.pt,0.1,,1,0,0,0,11,11,False,False,False,False,Stockfish 1 vs. /n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1500-No-Elo-Conditioning/2024-04-30---03-07-10_50M-High-Elo-1500-No-Elo-Conditioning/ckpt_960000.pt,11,1.605468511581421,11,0,0.001,,
+1714658500-6150,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1. c4 e5 2. a3",1-0,Stockfish 1,/n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1500-No-Elo-Conditioning/2024-04-30---03-07-10_50M-High-Elo-1500-No-Elo-Conditioning/ckpt_960000.pt,0.1,,1,0,0,5,2,1,False,False,False,True,Stockfish 1 vs. /n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1500-No-Elo-Conditioning/2024-04-30---03-07-10_50M-High-Elo-1500-No-Elo-Conditioning/ckpt_960000.pt,2,0.48070216178894043,2,0,0.001,,
+1714658501-2618,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1. c4 e5 2. g3",1-0,Stockfish 1,/n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1500-No-Elo-Conditioning/2024-04-30---03-07-10_50M-High-Elo-1500-No-Elo-Conditioning/ckpt_960000.pt,0.1,,1,0,0,5,2,1,False,False,False,True,Stockfish 1 vs. /n/vast-scratch/kempner_sham_lab/ezipe/chess_research/runs/50M-High-Elo-1500-No-Elo-Conditioning/2024-04-30---03-07-10_50M-High-Elo-1500-No-Elo-Conditioning/ckpt_960000.pt,2,0.47956299781799316,2,0,0.001,,
